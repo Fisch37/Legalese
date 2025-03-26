@@ -8,7 +8,7 @@
   "contact": {},
   "license": "MIT",
   "icon": "assets/legalese/icon.png",
-  "environment": "server",
+  "environment": "*",
   "entrypoints": {
     "main": [
       "de.fisch37.legalese.Legalese"
@@ -23,7 +23,6 @@
   ],
   "depends": {
     "fabricloader": ">=${loader_version}",
-    "fabric": "*",
     "minecraft": "${minecraft_version}"
   }
 }

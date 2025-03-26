@@ -4,6 +4,7 @@
   "package": "de.fisch37.legalese.mixin.client",
   "compatibilityLevel": "JAVA_21",
   "client": [
+    "AnvilScreenMixin"
   ],
   "injectors": {
     "defaultRequire": 1
